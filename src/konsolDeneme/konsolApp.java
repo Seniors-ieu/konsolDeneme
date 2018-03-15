@@ -14,6 +14,9 @@ public class konsolApp {
         System.out.println("Selamun hello");
         System.out.println("Selamun hello2");
 
+
+        System.out.println("aslı");
+
 	}
 
 }
