@@ -10,6 +10,8 @@ public class konsolApp {
 		
         double a = 1.54156748;
         System.out.println("a: %.2f \n" + a);
+        
+        System.out.println("Selamun hello");
 
 	}
 
