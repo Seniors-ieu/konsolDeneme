@@ -12,6 +12,7 @@ public class konsolApp {
         System.out.println("a: %.2f \n" + a);
         
         System.out.println("Selamun hello");
+        System.out.println("Selamun hello2");
 
 	}
 
